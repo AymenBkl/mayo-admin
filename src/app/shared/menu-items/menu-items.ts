@@ -57,12 +57,12 @@ const MENUITEMS = [
         type: 'link',
         icon: 'ti-user'
       },
-      // {
-      //   state: 'admin-drivers',
-      //   name: 'Drivers',
-      //   type: 'link',
-      //   icon: 'ti-truck'
-      // },
+       {
+         state: 'admin-drivers',
+         name: 'Drivers',
+         type: 'link',
+         icon: 'ti-truck'
+       },
       {
         state: 'admin-orders',
         name: 'Orders',
